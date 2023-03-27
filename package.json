@@ -1,0 +1,22 @@
+{
+  "name": "si-este",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johantarazona/si-este.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johantarazona/si-este/issues"
+  },
+  "homepage": "https://github.com/johantarazona/si-este#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
